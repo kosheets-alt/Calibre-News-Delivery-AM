@@ -8,7 +8,7 @@ from calibre.web.feeds.news import BasicNewsRecipe, classes
 
 
 class AssociatedPress(BasicNewsRecipe):
-    title = 'Associated Press'
+    title = 'Associated Press AM'
     description = (
         'Read the latest headlines, breaking news, and videos at APNews.com, the definitive '
         'source for independent journalism from every corner of the globe. Articles from Front Page.'
