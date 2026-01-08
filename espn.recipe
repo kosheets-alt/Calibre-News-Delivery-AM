@@ -41,21 +41,10 @@ class ESPN(BasicNewsRecipe):
         ('Top Headlines', 'https://www.espn.com/espn/rss/news'),
         'https://www.espn.com/espn/rss/nfl/news',
         'https://www.espn.com/espn/rss/nba/news',
-        'https://www.espn.com/espn/rss/mlb/news',
-        'https://www.espn.com/espn/rss/nhl/news',
-        'https://www.espn.com/espn/rss/golf/news',
-        'https://www.espn.com/espn/rss/rpm/news',
-        'https://www.espn.com/espn/rss/tennis/news',
-        'https://www.espn.com/espn/rss/boxing/news',
-        'https://www.espn.com/espn/rss/soccer/news',
-        # 'http://soccernet.espn.go.com/rss/news',
         'https://www.espn.com/espn/rss/ncb/news',
         'https://www.espn.com/espn/rss/ncf/news',
         'https://www.espn.com/espn/rss/ncaa/news',
-        # 'https://www.espn.com/espn/rss/outdoors/news',
-        # 'http://sports.espn.go.com/espn/rss/bassmaster/news',
-        'https://www.espn.com/espn/rss/oly/news',
-        'https://www.espn.com/espn/rss/horse/news'
+
     ]
 
     def get_browser(self):
